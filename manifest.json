@@ -1,0 +1,16 @@
+{
+  "name": "Car Tracker",
+  "short_name": "Car Tracker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "A simple app to track your car's location.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
